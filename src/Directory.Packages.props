@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup Label="Centralized Package Versions">
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup Label="Transitive Updates">
+  </ItemGroup>
+</Project>
